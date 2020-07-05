@@ -5,3 +5,5 @@ Este site foi criado seguindo o modelo usado no curso de HTML e CSS da plataform
 
 
 Se trata de um site simples e funcional com informações sobre o Google Glass
+
+GitHub Pages: https://douglaspiasente.github.io/site-GoogleGlass-CEV/
